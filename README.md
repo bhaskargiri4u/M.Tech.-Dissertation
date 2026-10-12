@@ -1,5 +1,7 @@
 # FragmentBERT: BERT-MLM and RL for Fragment-Based Molecule Optimization
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhaskargiri4u/M.Tech.-Dissertation/blob/main/Final_Dissertation.ipynb)
+
 Dissertation project. The notebook `Final_Dissertation.ipynb` runs in Google Colab and covers:
 
 1. **Phase 1:** MOSES data preparation for BERT-MLM
