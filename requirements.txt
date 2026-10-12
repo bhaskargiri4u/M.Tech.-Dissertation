@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+tokenizers
+rdkit
+pandas
+numpy
+scikit-learn
+stable-baselines3
+gymnasium
+matplotlib
+seaborn
+plotly
